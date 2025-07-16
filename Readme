@@ -1,0 +1,8 @@
+Diego Regalado
+CPSC-39
+Jul 16, 2025
+
+This program uses recursion to solve different problems with numbers and strings.
+ Instead of using loops, each method calls itself to work through the problem step by step. 
+ For example, one method counts how many 8s are in a number, and if two 8s are next to each other, 
+ the second one counts as double.
