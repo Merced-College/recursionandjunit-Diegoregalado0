@@ -6,3 +6,7 @@ This program uses recursion to solve different problems with numbers and strings
  Instead of using loops, each method calls itself to work through the problem step by step. 
  For example, one method counts how many 8s are in a number, and if two 8s are next to each other, 
  the second one counts as double.
+
+//edit
+ I'd like to note that the assigment asks for 3 pushes to repo, I took this as at least 3 commits, so
+ although there will only be 2 pushes (the turn in push and this one) I would like to clarify that my code was saved and comitted all the way this way.
